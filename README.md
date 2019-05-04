@@ -11,7 +11,7 @@ In their paper, they propose a primal-dual transformation. I've implemented this
 
 
 Using the following distance on points in the discretized triangle:
-![](distance,png)
+![](distance.png)
 
 
 We find the following transport map, T, after solving the dual problem:
